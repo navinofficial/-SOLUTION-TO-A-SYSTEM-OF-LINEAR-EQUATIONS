@@ -17,8 +17,8 @@ End the program
 ```
 
 
-#Developed by   : Bharathraj P
-#RegisterNumber : 212223230031
+#Developed by   : Navinkumar v
+#RegisterNumber : 212223230141
 
 import numpy as np
 a = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
